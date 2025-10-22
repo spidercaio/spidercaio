@@ -1,16 +1,28 @@
-## Hi there 👋
+## Oi! Eu sou Caio Moraes 👋
 
-<!--
-**spidercaio/spidercaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudante de Engenharia de Software
+- 🌱 Atualmente estudando Python
+- 📫 Contate-me no e-mail: cmsouzared@gmail.com
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
+<div>
+  <a href="https://github.com/spidercaio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spidercaio&show_icons=true&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidercaio&show_icons=true&theme=synthwave"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+</div>
+    
+<div>
+  <a href="https://www.linkedin.com/in/caiomds/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.github.com/spidercaio/" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Snake animation](https://spidercaio.github.io/spidercaio/github-contribution-grid-snake.svg)
+  
+</div>
