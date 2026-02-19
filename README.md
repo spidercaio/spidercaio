@@ -1,9 +1,11 @@
 ## Oi! Eu sou Caio Moraes 👋
 
 - 🔭 Estudante de Engenharia de Software
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando JavaScript
 - 📫 Contate-me no e-mail: cmsouzared@gmail.com
 - 😄 Pronomes: ele/dele
+
+Sou muito interessado em programação web, atualmente estou trabalhando em projetos Front End para fixar os conhecimentos adquiridos em aulas. Tenho conhecimentos em HTML, CSS, Python, mySQL, um pouco de Java e estou aprofundando meus conhecimentos em JavaScript. Também tenho conhecimentos em Git e GitHub para verisonamento de código.
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
 <div>
