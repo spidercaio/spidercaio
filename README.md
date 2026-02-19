@@ -10,8 +10,8 @@ Sou muito interessado em programação web, atualmente estou trabalhando em proj
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
 <div>
   <a href="https://github.com/spidercaio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spidercaio&show_icons=true&theme=synthwave"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidercaio&show_icons=true&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats-murex-rho-75.vercel.app/api?username=spidercaio&show_icons=true&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats-murex-rho-75.vercel.app/api/top-langs/?username=spidercaio&show_icons=true&theme=synthwave"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
