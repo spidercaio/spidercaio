@@ -12,6 +12,7 @@ Sou muito interessado em programação web, atualmente estou trabalhando em proj
   <a href="https://github.com/spidercaio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spidercaio&show_icons=true&theme=synthwave"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidercaio&show_icons=true&theme=synthwave"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -19,6 +20,7 @@ Sou muito interessado em programação web, atualmente estou trabalhando em proj
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
     
 <div>
